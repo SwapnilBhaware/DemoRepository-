@@ -7,3 +7,6 @@ changed get happen
 changes are done 
 
 this is from master 
+
+this is added in bug fixed  
+changes to be done due to some reasons
